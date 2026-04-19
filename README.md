@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Layla, Laili , Lail
+## A web developer from Afghanistan
+🔭 I’m interested in learning exciting activities and reading.
+
+🌱 I’m currently learning full-stack development.
+
+📫 How to reach me laylawakily@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/layla-wakily-4b453a31a)
